@@ -53,14 +53,16 @@ I am a **Full-Stack Developer** and **IT Instructor** graduated from Amoud Unive
 ---
 
 
-<h3 align="left">📈 My GitHub Stats</h3>
+## 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirdoon3&show_icons=true&locale=en&layout=compact" alt="shirdoon3" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shirdoon3&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shirdoon3&show_icons=true&locale=en" alt="shirdoon3" /></p>
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shirdoon3&show_icons=true&locale=en&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
 ---
-
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
 <a href="mailto:axmedmaxmoud3344@gmail.com" target="_blank">
